@@ -56,8 +56,3 @@ def update(id , title, author,year,isbn):  ## python will use these argument val
 
 
 connect()
-#insert("Skull Candy" , "Mp3" , 2015 ,98950)
-insert("Apple" , "Electronics" , 2018 ,9125)
-print(view())
-update(2 , "New Apple" , "New Electronics" , 2012 , 45)
-print(view())
