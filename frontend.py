@@ -1,4 +1,5 @@
 from tkinter import *
+from backend import *
 
 window = Tk()
 window.title("Store")
